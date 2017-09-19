@@ -1,5 +1,5 @@
 # Jampack-bulma-boiler
-## Static Website Boilerplate
+Static Webpage Boilerplate
 
 Jampack Bulma boilerplate built using Webpack. FEATURING:
 - Bulma
@@ -12,9 +12,13 @@ Jampack Bulma boilerplate built using Webpack. FEATURING:
 ## Get Started!
 
 Clone the repo
-
 ```
 git clone repo
+```
+
+Don't forget to install!!
+```
+npm install
 ```
 
 Run to start devlopment localhost
