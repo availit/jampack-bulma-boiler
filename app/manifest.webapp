@@ -1,0 +1,25 @@
+{
+	"version": "1.0.0",
+	"name": "JAMPACK Bulma Boiler",
+	"launch_path": "/index.html",
+	"description": "JAM stack website boilerplate using webpack and bulma.io",
+	"icons": {
+		"128": "/img/icon-128x128.png"
+	},
+	"developer": {
+		"name": "Aaron Vail",
+		"url": "https://github.com/availit"
+	},
+	"installs_allowed_from": [
+		"*"
+	],
+	"default_locale": "en",
+	"permissions": {
+	},
+	"locales": {
+		"en": {
+			"name": "Static Website Boilerplate",
+			"description": "JAM stack website boilerplate using webpack and bulma.io"
+		}
+	}
+}
