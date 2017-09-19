@@ -1,16 +1,15 @@
 # Jampack-bulma-boiler
 ## Static Website Boilerplate
 
-Static website boilterplate built using Webpack. This boilterplate features following:
-
-- Webpack
-- ES6
+Jampack Bulma boilerplate built using Webpack. FEATURING:
 - Bulma
-- Font Awesome
+- Webpack
 - Sass
+- Font Awesome
+- ES6
 - Live reload using Browsersync
 
-## Getting Started
+## Get Started!
 
 Clone the repo
 
@@ -18,12 +17,12 @@ Clone the repo
 git clone repo
 ```
 
-Run to start devlopment
+Run to start devlopment localhost
 ```
 npm run start
 ```
 
-To compile run the following command and it will create a dist folder which can be placed on a server
+To build run the following command and it will create a dist folder which can be placed on a server
 ```
 npm run build
 ```
